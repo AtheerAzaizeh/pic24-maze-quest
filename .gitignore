@@ -1,0 +1,11 @@
+# MPLAB X build output and per-machine files
+**/build/
+**/dist/
+**/debug/
+**/.generated_files/
+**/nbproject/private/
+**/nbproject/Makefile-*
+**/nbproject/Package-*.bash
+**/disassembly/
+.vscode/
+.DS_Store

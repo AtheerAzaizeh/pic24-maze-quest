@@ -1,0 +1,61 @@
+=== MAZE QUEST – QUICK REFERENCE MANUAL ===
+
+[ POWER & STARTUP ]
+• Turn on the console.
+• Choose a difficulty mode.
+• Select your preferred maze design.
+
+[ MENU USE ]
+• Rotate the POTENTIOMETER → move through menu items.
+• Press S1 or S2 → confirm selection.
+
+[ DIFFICULTY MODES ]
+• Level 1 → 40s, slow speed.
+• Level 2 → 30s, medium speed.
+• Level 3 → 20s, fast speed.
+• Select with POTENTIOMETER + confirm with S1/S2.
+
+[ MAZE OPTIONS ]
+• Maze 1 → Simple layout.
+• Maze 2 → Moderate challenge.
+• Maze 3 → Complex walls.
+• Maze 4 → Extreme pattern.
+• Confirm with S1/S2.
+
+[ CONTROL SUMMARY ]
+• Tilt board → move ball (accelerometer).
+• POTENTIOMETER → vertical scroll.
+• Start point: top-right (blue ball).
+• Finish: bottom-left (red circle).
+• Avoid white wall segments.
+
+[ OBJECTIVE ]
+1. Navigate from start to finish.
+2. Avoid wall collisions.
+3. Beat the countdown timer.
+
+[ WIN CONDITION ]
+• Reach finish before timer = victory.
+• Higher difficulty = bigger score bonus.
+
+[ LOSS CONDITION ]
+• Timer hits zero before finish → game over.
+
+[ TIMER INFO ]
+• Time displayed in top-left corner.
+• Blinking display under 5 seconds remaining.
+
+[ NAME & SCORE ENTRY ]
+• Use POTENTIOMETER to pick letters A–Z.
+• S1 → move to next character.
+• S2 → save name + score.
+
+[ SCORING FORMULA ]
+• Score = Remaining Time × Difficulty × 10.
+• Leaderboard shows top 3 scores.
+
+[ EMERGENCY EXIT ]
+• Hold S1 or S2 for 3s → quit instantly.
+• Score not saved.
+
+=== END OF MANUAL ===
